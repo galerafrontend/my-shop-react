@@ -1,8 +1,12 @@
+import { Normalize } from "styled-normalize";
+import { GlobalStyle } from "./GlobalStyle";
+
 const App = () => {
   return (
-    <div>
-      Hello world!
-    </div>
+    <>
+      <GlobalStyle />
+      <Normalize />
+    </>
   );
 };
 
