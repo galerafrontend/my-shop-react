@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/my-shop-react/static/js/main.070c0bef.js",
+    "static/js/787.6521655c.chunk.js": "/my-shop-react/static/js/787.6521655c.chunk.js",
+    "index.html": "/my-shop-react/index.html",
+    "main.070c0bef.js.map": "/my-shop-react/static/js/main.070c0bef.js.map",
+    "787.6521655c.chunk.js.map": "/my-shop-react/static/js/787.6521655c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.070c0bef.js"
+  ]
+}
